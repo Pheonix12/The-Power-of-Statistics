@@ -1,0 +1,2 @@
+# The Power of Statistics
+ This is the fourth of seven courses in the Google Advanced Data Analytics Certificate.  This course covers how data professionals use statistics to analyze data and gain important insights. Explore The key concepts such as descriptive and inferential statistics, probability, sampling, confidence intervals, and hypothesis testing. Learning how to use Python for statistical analysis and practice communicating your findings like a data professional. (Includes Class, Practice code and Projects)
